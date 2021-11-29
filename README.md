@@ -1,8 +1,17 @@
 # Active Learning at the ImageNet Scale
 
-This repo contains code for the paper _Active Learning at the ImageNet Scale_ by 
-_Zeyad Emam*, Hong-Min Chu*, Ping-Yeh Chiang*, Wojtek Czaja, Richard Leapman, Micah Goldblum, 
-and Tom Goldstein._
+This repo contains code for the following paper:
+```
+@misc{emam2021active,
+      title={Active Learning at the ImageNet Scale}, 
+      author={Zeyad Ali Sami Emam and Hong-Min Chu and Ping-Yeh Chiang and Wojciech Czaja and Richard Leapman and Micah Goldblum and Tom Goldstein},
+      year={2021},
+      eprint={2111.12880},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}}
+```
+
+Please cite our work if you use this code. 
 
 ## Requirements
 
